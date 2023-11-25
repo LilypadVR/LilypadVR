@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB\V5PCB.kicad_sch</source>
+    <date>11/11/2023 8:24:31 PM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>V5PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61d972b7-97db-42f3-803f-b1f4795af266</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcfcc29a-b506-45fb-aaa9-c8213d190354</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa4d66ca-ba75-4e7e-80eb-85b58170de21</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86038a44-b4d6-46a7-8823-ffd6f1348a20</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbc0d971-0cd1-4f6c-98e1-383996aff86a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d44e894-5072-4cb1-8339-7b76f9d39e95</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbc5bf15-2c92-45ef-9de2-db9811864fed</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65e1cdf8-55cf-4704-b69e-8b7027e81463</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dacfadd-eb4f-49ca-86c0-976a2c556624</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_Orange</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2c47493-f1fb-492b-931c-5d9c59a6b339</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WHITE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa8a084c-ba93-4717-9971-e5b04cd40b3c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>712605b8-7617-4a48-827f-e024466855c3</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Inductor, small symbol"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd324d96-f201-4052-aff9-2d896d958287</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>095c394c-fd9b-4816-b185-6feed0cd8121</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c760712-0e1e-4e42-9750-7da5bd058bf2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>680k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f277c7db-c9a8-4f53-a86e-adb7204c0e8a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4de80c75-d433-49c6-8889-5a25cebfb0ff</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6ff498f-95b5-4b0d-927f-c8a3cd304717</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69ad7afd-eda9-4c43-96e5-63ab64658c5c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76a385ca-1ca8-465e-98be-5bd07d927f8a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>680R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a22b6f6-135f-4a3d-8ed1-695a3807c44a</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc694288-fd5c-43af-b004-7cc34c36ec2c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4fc036a-e60b-4277-92ee-1dc793be5790</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0de171e-bd27-4179-a9e2-3ce0c58033e0</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>598462ec-721b-41dd-8ef5-48bfc13e6cfd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23feb86a-cef5-4ea2-bb57-a4a6f9a76e23</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddc3b0b0-8f8d-4f1a-a14a-eb2e23d923cf</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cab8808-1d32-43cf-b6b4-833b6d59eb56</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1aed43f-f111-46fd-a38a-a02a3c5cc52f</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8538d12-cfd8-42fe-8aa4-6c607e4649fd</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aae0ae1c-f44d-4126-bc6a-2707d692c72c</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_SPDT</value>
+      <footprint>Button_Switch_SMD:SW_SPDT_PCM12</footprint>
+      <libsource lib="CosmicLSM_Symbols" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d176068-e01f-477a-800e-596e5e2ce1c0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-C3-MINI-1-N4</value>
+      <footprint>ESP32-C3-Mini-1-N4:XCVR_ESP32-C3-MINI-1-N4</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="Description">
+Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount
+</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55mm</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="MP">ESP32-C3-MINI-1-N4</field>
+        <field name="PARTREV">v1.0</field>
+        <field name="Package">SMD-53 Espressif Systems</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5656579&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-C3-MINI-1-N4&amp;search_term=esp32-c3-mini</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ESP32-C3-MINI-1-N4" part="ESP32-C3-MINI-1-N4" description=""/>
+      <property name="MF" value="Espressif Systems"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.55mm"/>
+      <property name="Package" value="SMD-53 Espressif Systems"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="v1.0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-C3-MINI-1-N4"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5656579&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-C3-MINI-1-N4&amp;search_term=esp32-c3-mini"/>
+      <property name="Description" value="&#xA;Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Espressif Systems"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c414b26d-5247-40ac-9f34-e4f6992dd83d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>BQ21040DBVR</value>
+      <footprint>BQ21040DBVR:SOT95P280X145-6N</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+1-cell, 0.8-A Li-ion and Li-polymer battery charger
+</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">BQ21040DBVR</field>
+        <field name="Package">SOT-23-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=505197&amp;manufacturer=Texas Instruments&amp;part_name=BQ21040DBVR&amp;search_term=bq21040</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="BQ21040DBVR" part="BQ21040DBVR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="Description" value="&#xA;1-cell, 0.8-A Li-ion and Li-polymer battery charger&#xA;"/>
+      <property name="Package" value="SOT-23-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="BQ21040DBVR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=505197&amp;manufacturer=Texas Instruments&amp;part_name=BQ21040DBVR&amp;search_term=bq21040"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1b0d1ae-f3ad-44cd-91d9-f476ec8e4d13</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>BMI270</value>
+      <footprint>Package_LGA:Bosch_LGA-14_3x2.5mm_P0.5mm</footprint>
+      <datasheet>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi160-ds000.pdf</datasheet>
+      <libsource lib="CosmicLSM_Symbols" part="BMI270" description="Small, low power inertial measurement unit, LGA-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_description" value="Small, low power inertial measurement unit, LGA-14"/>
+      <property name="ki_keywords" value="Bosh IMU small low power inertial measurement unit"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f428fcf8-16f9-4e46-ad22-32f78c2945a0</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>M3406</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811151539_XI-AN-Aerosemi-Tech-M3406-ADJ_C83224.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C83224</field>
+      </fields>
+      <libsource lib="CosmicLSM_Symbols" part="M3406" description=""/>
+      <property name="LCSC" value="C83224"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44135b03-10a3-4363-bd0b-4dd6e431f6b6</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SMF05CT1G</value>
+      <footprint>CosmicLSM_Footprints:SOT-363_SC-70-6</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda</field>
+        <field name="DESCRIPTION">SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88</field>
+        <field name="Description">
+12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+        <field name="MF">onsemi</field>
+        <field name="MP">SMF05CT1G</field>
+        <field name="PACKAGE">SOT-363 ON Semiconductor</field>
+        <field name="PRICE">None</field>
+        <field name="Package">SC-88-6 ON Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CosmicLSM_Symbols" part="SMF05CT1G" description=""/>
+      <property name="MF" value="onsemi"/>
+      <property name="DESCRIPTION" value="SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88"/>
+      <property name="PACKAGE" value="SOT-363 ON Semiconductor"/>
+      <property name="PRICE" value="None"/>
+      <property name="Package" value="SC-88-6 ON Semiconductor"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC7351B"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap"/>
+      <property name="MP" value="SMF05CT1G"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda"/>
+      <property name="Description" value="&#xA;12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Price" value="None"/>
+      <property name="MANUFACTURER" value="ON Semiconductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d4b6a31-5a18-4568-a379-4b566ae4a3bd</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>ST-0277D00-052-142</value>
+      <footprint>AUDIO-TH_ST-0277D00-052-142:AUDIO-TH_ST-0277D00-052-142</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20210607/C2837093_134E5EEC9FBC55D9B4DB711D58728EAE.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2837093</field>
+      </fields>
+      <libsource lib="ST-0277D00-052-142" part="ST-0277D00-052-142" description=""/>
+      <property name="LCSC" value="C2837093"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_keywords" value="C2837093"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18e98bbb-e7c3-4e8a-a5ba-6593d92acf7c</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TK-6580A8-1</value>
+      <footprint>SW-TH_TK-6580A8-1:SW-TH_TK-6580A8-1</footprint>
+      <datasheet>https://item.szlcsc.com/548561.html</datasheet>
+      <fields>
+        <field name="LCSC">C528772</field>
+      </fields>
+      <libsource lib="TK-6580A8-1" part="TK-6580A8-1" description=""/>
+      <property name="LCSC" value="C528772"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <property name="ki_keywords" value="C528772"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f851611-2c71-4036-9da8-2683f3c59fe5</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>SMF05CT1G</value>
+      <footprint>CosmicLSM_Footprints:SOT-363_SC-70-6</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda</field>
+        <field name="DESCRIPTION">SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88</field>
+        <field name="Description">
+12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+        <field name="MF">onsemi</field>
+        <field name="MP">SMF05CT1G</field>
+        <field name="PACKAGE">SOT-363 ON Semiconductor</field>
+        <field name="PRICE">None</field>
+        <field name="Package">SC-88-6 ON Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="" part="SMF05CT1G_1" description=""/>
+      <property name="MF" value="onsemi"/>
+      <property name="DESCRIPTION" value="SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88"/>
+      <property name="PACKAGE" value="SOT-363 ON Semiconductor"/>
+      <property name="PRICE" value="None"/>
+      <property name="Package" value="SC-88-6 ON Semiconductor"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC7351B"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap"/>
+      <property name="MP" value="SMF05CT1G"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda"/>
+      <property name="Description" value="&#xA;12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Price" value="None"/>
+      <property name="MANUFACTURER" value="ON Semiconductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="V5PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>decb9877-d7ef-480b-8c67-a722029f5704</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="SMF05CT1G_1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SMF05CT1G</field>
+        <field name="Footprint">SOT65P210X110-6N</field>
+        <field name="MF">onsemi</field>
+        <field name="DESCRIPTION">SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88</field>
+        <field name="PACKAGE">SOT-363 ON Semiconductor</field>
+        <field name="PRICE">None</field>
+        <field name="Package">SC-88-6 ON Semiconductor</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap</field>
+        <field name="MP">SMF05CT1G</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda</field>
+        <field name="Description">
+12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="Price">None</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BQ21040DBVR" part="BQ21040DBVR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BQ21040DBVR</field>
+        <field name="Footprint">BQ21040DBVR:SOT95P280X145-6N</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description">
+1-cell, 0.8-A Li-ion and Li-polymer battery charger
+</field>
+        <field name="Package">SOT-23-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">BQ21040DBVR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=505197&amp;manufacturer=Texas Instruments&amp;part_name=BQ21040DBVR&amp;search_term=bq21040</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BQ21040DBVR/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TS" type="input"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="~{CHG}" type="output"/>
+        <pin num="4" name="ISET" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="BMI270">
+      <description>Small, low power inertial measurement unit, LGA-14</description>
+      <docs>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi160-ds000.pdf</docs>
+      <footprints>
+        <fp>Bosch*LGA*3x2.5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BMI270</field>
+        <field name="Footprint">Package_LGA:Bosch_LGA-14_3x2.5mm_P0.5mm</field>
+        <field name="Datasheet">https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi160-ds000.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO" type="input"/>
+        <pin num="2" name="ASDx" type="bidirectional"/>
+        <pin num="3" name="ASCx" type="output"/>
+        <pin num="4" name="INT1" type="bidirectional"/>
+        <pin num="5" name="VDDIO" type="power_in"/>
+        <pin num="6" name="GNDIO" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="INT2" type="bidirectional"/>
+        <pin num="10" name="OCSB" type="bidirectional"/>
+        <pin num="11" name="OSDO" type="bidirectional"/>
+        <pin num="12" name="CSB" type="input"/>
+        <pin num="13" name="SCx" type="input"/>
+        <pin num="14" name="SDx" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="M3406">
+      <docs>https://datasheet.lcsc.com/lcsc/1811151539_XI-AN-Aerosemi-Tech-M3406-ADJ_C83224.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">M3406</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811151539_XI-AN-Aerosemi-Tech-M3406-ADJ_C83224.pdf</field>
+        <field name="LCSC">C83224</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RUN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SW" type="output"/>
+        <pin num="4" name="VIN" type="power_in"/>
+        <pin num="5" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="SMF05CT1G">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SMF05CT1G</field>
+        <field name="Footprint">SOT65P210X110-6N</field>
+        <field name="MF">onsemi</field>
+        <field name="DESCRIPTION">SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88</field>
+        <field name="PACKAGE">SOT-363 ON Semiconductor</field>
+        <field name="PRICE">None</field>
+        <field name="Package">SC-88-6 ON Semiconductor</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap</field>
+        <field name="MP">SMF05CT1G</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=SMF05CT1G&amp;ref=eda</field>
+        <field name="Description">
+12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="Price">None</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CosmicLSM_Symbols" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-C3-MINI-1-N4" part="ESP32-C3-MINI-1-N4">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C3-MINI-1-N4</field>
+        <field name="Footprint">ESP32-C3-MINI-1-N4:XCVR_ESP32-C3-MINI-1-N4</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55mm</field>
+        <field name="Package">SMD-53 Espressif Systems</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">v1.0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-C3-MINI-1-N4/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-C3-MINI-1-N4</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5656579&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-C3-MINI-1-N4&amp;search_term=esp32-c3-mini</field>
+        <field name="Description">
+Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="3V3" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="IO2" type="bidirectional"/>
+        <pin num="6" name="IO3" type="bidirectional"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="EN" type="input"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="IO0" type="bidirectional"/>
+        <pin num="13" name="IO1" type="bidirectional"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="NC" type="no_connect"/>
+        <pin num="16" name="IO10" type="bidirectional"/>
+        <pin num="17" name="NC" type="no_connect"/>
+        <pin num="18" name="IO4" type="bidirectional"/>
+        <pin num="19" name="IO5" type="bidirectional"/>
+        <pin num="20" name="IO6" type="bidirectional"/>
+        <pin num="21" name="IO7" type="bidirectional"/>
+        <pin num="22" name="IO8" type="bidirectional"/>
+        <pin num="23" name="IO9" type="bidirectional"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="NC" type="no_connect"/>
+        <pin num="26" name="IO18" type="bidirectional"/>
+        <pin num="27" name="IO19" type="bidirectional"/>
+        <pin num="28" name="NC" type="no_connect"/>
+        <pin num="29" name="NC" type="no_connect"/>
+        <pin num="30" name="RXD0" type="bidirectional"/>
+        <pin num="31" name="TXD0" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="NC" type="no_connect"/>
+        <pin num="34" name="NC" type="no_connect"/>
+        <pin num="35" name="NC" type="no_connect"/>
+        <pin num="36" name="GND" type="power_in"/>
+        <pin num="37" name="GND" type="power_in"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41" name="GND" type="power_in"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="GND" type="power_in"/>
+        <pin num="45" name="GND" type="power_in"/>
+        <pin num="46" name="GND" type="power_in"/>
+        <pin num="47" name="GND" type="power_in"/>
+        <pin num="48" name="GND" type="power_in"/>
+        <pin num="49_1" name="GND" type="power_in"/>
+        <pin num="49_2" name="GND" type="power_in"/>
+        <pin num="49_3" name="GND" type="power_in"/>
+        <pin num="49_4" name="GND" type="power_in"/>
+        <pin num="49_5" name="GND" type="power_in"/>
+        <pin num="49_6" name="GND" type="power_in"/>
+        <pin num="49_7" name="GND" type="power_in"/>
+        <pin num="49_8" name="GND" type="power_in"/>
+        <pin num="49_9" name="GND" type="power_in"/>
+        <pin num="50" name="GND" type="power_in"/>
+        <pin num="51" name="GND" type="power_in"/>
+        <pin num="52" name="GND" type="power_in"/>
+        <pin num="53" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ST-0277D00-052-142" part="ST-0277D00-052-142">
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20210607/C2837093_134E5EEC9FBC55D9B4DB711D58728EAE.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ST-0277D00-052-142</field>
+        <field name="Footprint">footprint:AUDIO-TH_ST-0277D00-052-142</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20210607/C2837093_134E5EEC9FBC55D9B4DB711D58728EAE.pdf</field>
+        <field name="LCSC">C2837093</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="TK-6580A8-1" part="TK-6580A8-1">
+      <docs>https://item.szlcsc.com/548561.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TK-6580A8-1</field>
+        <field name="Footprint">footprint:SW-TH_TK-6580A8-1</field>
+        <field name="Datasheet">https://item.szlcsc.com/548561.html</field>
+        <field name="LCSC">C528772</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BQ21040DBVR">
+      <uri>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB/CustomSymbols/BQ21040DBVR.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="CosmicLSM_Symbols">
+      <uri>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB/CustomSymbols/CosmicLSM_Symbols.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-C3-MINI-1-N4">
+      <uri>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB/CustomSymbols/ESP32-C3-MINI-1-N4.kicad_sym</uri>
+    </library>
+    <library logical="ST-0277D00-052-142">
+      <uri>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB/CustomSymbols/ST-0277D00-052-142.kicad_sym</uri>
+    </library>
+    <library logical="TK-6580A8-1">
+      <uri>D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB/CustomSymbols/TK-6580A8-1.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="SDO" pintype="input"/>
+      <node ref="U3" pin="12" pinfunction="CSB" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="4" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/ADC">
+      <node ref="U1" pin="6" pinfunction="IO3" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/BMI_INT_AUX">
+      <node ref="U1" pin="20" pinfunction="IO6" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pintype="passive"/>
+    </net>
+    <net code="4" name="/BMI_INT_MAIN">
+      <node ref="U1" pin="19" pinfunction="IO5" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="INT1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/BOOT">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="IO9" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/EN">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="7" name="/GPIO2">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/SCL">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="IO8" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="SCx" pintype="input"/>
+      <node ref="U5" pin="6" pintype="passive"/>
+    </net>
+    <net code="9" name="/SDA">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="IO10" pintype="bidirectional"/>
+      <node ref="U3" pin="14" pinfunction="SDx" pintype="bidirectional"/>
+      <node ref="U5" pin="5" pintype="passive"/>
+    </net>
+    <net code="10" name="/STATUS_LED">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/USB_D+">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U1" pin="27" pinfunction="IO19" pintype="bidirectional"/>
+      <node ref="U12" pin="6" pintype="passive"/>
+    </net>
+    <net code="12" name="/USB_D-">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U1" pin="26" pinfunction="IO18" pintype="bidirectional"/>
+      <node ref="U12" pin="5" pintype="passive"/>
+    </net>
+    <net code="13" name="/VCC_RAW">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="output"/>
+      <node ref="U7" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U7" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="14" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="14" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="36" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="37" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="46" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="47" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="49_9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="50" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="51" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="52" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="53" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="GNDIO" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="15" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="~{CHG}" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J1-CC1)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J1-CC2)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U6" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="21" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="22" name="Net-(U2-ISET)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="ISET" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U2-TS)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="TS" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U4-FB)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U4-SW)">
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="26" name="VBUS">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U12" pin="4" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="27" name="VCC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="RUN" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U7" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="28" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(SW3-A-Pad1)">
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="unconnected-(SW3-B-Pad2)">
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(SW3-C-Pad3)">
+      <node ref="SW3" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-IO1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="IO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-IO4-Pad18)">
+      <node ref="U1" pin="18" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-IO7-Pad21)">
+      <node ref="U1" pin="21" pinfunction="IO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U1-NC-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-NC-Pad7)">
+      <node ref="U1" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-NC-Pad9)">
+      <node ref="U1" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-NC-Pad10)">
+      <node ref="U1" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-NC-Pad15)">
+      <node ref="U1" pin="15" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-NC-Pad17)">
+      <node ref="U1" pin="17" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-NC-Pad24)">
+      <node ref="U1" pin="24" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-NC-Pad25)">
+      <node ref="U1" pin="25" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-NC-Pad28)">
+      <node ref="U1" pin="28" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-NC-Pad29)">
+      <node ref="U1" pin="29" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-NC-Pad32)">
+      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-NC-Pad33)">
+      <node ref="U1" pin="33" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-NC-Pad34)">
+      <node ref="U1" pin="34" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U1-NC-Pad35)">
+      <node ref="U1" pin="35" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U1-RXD0-Pad30)">
+      <node ref="U1" pin="30" pinfunction="RXD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U1-TXD0-Pad31)">
+      <node ref="U1" pin="31" pinfunction="TXD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-ASCx-Pad3)">
+      <node ref="U3" pin="3" pinfunction="ASCx" pintype="output+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-ASDx-Pad2)">
+      <node ref="U3" pin="2" pinfunction="ASDx" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U3-INT2-Pad9)">
+      <node ref="U3" pin="9" pinfunction="INT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U3-OCSB-Pad10)">
+      <node ref="U3" pin="10" pinfunction="OCSB" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U3-OSDO-Pad11)">
+      <node ref="U3" pin="11" pinfunction="OSDO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U5-Pad1)">
+      <node ref="U5" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U7-Pad1)">
+      <node ref="U7" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="59" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="60" name="unconnected-(U12-Pad1)">
+      <node ref="U12" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U12-Pad3)">
+      <node ref="U12" pin="3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

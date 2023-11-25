@@ -1,0 +1,43 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "hbackbone": "2mm",
+        "vbackbone": "2mm",
+        "rotation": "90deg",
+        "rows": "2",
+        "hbonecut": "False",
+        "baketext": "False"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "1mm",
+        "hwidth": "1mm",
+        "hcount": "0",
+        "patchcorners": "False"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "User.1"
+    },
+    "framing": {
+        "type": "frame",
+        "vspace": "0mm",
+        "width": "2mm",
+        "mintotalheight": "70mm",
+        "mintotalwidth": "70mm",
+        "cuts": "v"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "3.35mm",
+        "voffset": "3.35mm",
+        "opening": "2mm"
+    },
+    "page": {
+        "anchor": "c",
+        "posy": "50%"
+    },
+    "post": {
+        "dimensions": "True"
+    }
+}

@@ -1,0 +1,9 @@
+2023-11-13 20:28:34,940 - panelizer_logger - WARNING - 
+START: 2023-11-13T20:28:32.909019
+
+Board: D:\Windows.old.000\Users\jevan\Documents\Models\Lilypad\V5\V5PCB\Production\V5PCB_panelized.kicad_pcb
+Board dimensions: 46.29 x 51.41 mm.
+You can fit 2 x 1 boards on the panel.
+Warning: panel is under 70x70mm. It may be too small to v-score.
+Ordering Instructions not found! No futher ordering warnings will be given.
+
