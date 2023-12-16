@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "C:/Program Files/KiCad/7.0/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "V5Cattail.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
