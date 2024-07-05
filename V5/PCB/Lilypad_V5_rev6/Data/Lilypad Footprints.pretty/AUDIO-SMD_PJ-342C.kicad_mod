@@ -1,0 +1,334 @@
+(footprint "AUDIO-SMD_PJ-342C"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "AUDIO-SMD_PJ-342C footprint")
+	(tags "AUDIO-SMD_PJ-342C footprint C2837091")
+	(property "Reference" "J2"
+		(at 4.687925 -0.112451 90)
+		(layer "F.SilkS")
+		(uuid "139dd6cc-16bd-4eac-9af2-0514415d3cbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TRRS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42624da8-31a8-4941-878f-e0707b6ca446")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Lilypad Footprints:AUDIO-SMD_PJ-342C"
+		(at 0 -2.008452 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05d0ebae-53f2-4130-a45f-4c918dad3f37")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -2.008452 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5de3d9b1-91fa-40ac-a06d-a31a758c5c52")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x04, script generated"
+		(at 0 -2.008452 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f93eea8-f77c-4c35-aa8b-2fc9c229e93a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "EXTENDED?" "TRUE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd9cae05-39df-4849-8fc3-1216bf9cf670")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "C2837091"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e71eb213-0daa-4701-9f81-6812ed1bee28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 4.100076 -5.900051)
+		(end 4.299975 -5.900051)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a5d63407-a4b3-4e9d-8066-0e4a8a8fa770")
+	)
+	(fp_line
+		(start -3.9 -0.300025)
+		(end -3.4 -0.300025)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d46b7f98-6dc3-4f5c-8ac4-67d594a585fe")
+	)
+	(fp_line
+		(start -3.898908 2.099441)
+		(end -3.9 -0.300025)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1ea9b1c4-09c2-4cc4-b3c4-db55ccaeef12")
+	)
+	(fp_line
+		(start -3.401067 -0.3)
+		(end -3.401067 -7.120015)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "15d0ca69-e5e1-4b6f-82d4-15f6f48c83f5")
+	)
+	(fp_line
+		(start -3.401067 2.099441)
+		(end -3.898908 2.099441)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cbb154ee-c2d6-45d3-b331-6074be44e29e")
+	)
+	(fp_line
+		(start -3.401067 5.000127)
+		(end -3.401067 2.099441)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b640e8df-a0e5-479c-a295-ffd1a52b570f")
+	)
+	(fp_line
+		(start 2.600965 5.000127)
+		(end -3.401067 5.000127)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "82e76330-4981-4278-9609-1fd8cc2606c1")
+	)
+	(fp_line
+		(start 2.600965 5.000127)
+		(end 3.401067 5.000127)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0b1636f5-f1d7-4917-828c-4fb4cc11f522")
+	)
+	(fp_line
+		(start 3.4 1.099975)
+		(end 3.9 1.099975)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "77146012-4229-4c9e-84a8-ff2bf79bf596")
+	)
+	(fp_line
+		(start 3.401067 -1.3)
+		(end 3.401067 -7.120015)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f1c2ad5a-1442-49b8-b4b7-4af286682e28")
+	)
+	(fp_line
+		(start 3.401067 5.000127)
+		(end 3.401067 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3de5597a-6c53-44ba-b7b0-b38ac96ae020")
+	)
+	(fp_line
+		(start 3.898908 -1.299086)
+		(end 3.401067 -1.299086)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ff3ca723-ecd5-4f5a-973d-ff359aeed3c4")
+	)
+	(fp_line
+		(start 3.9 1.099975)
+		(end 3.898908 -1.299086)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9fb99e4f-0513-4e5d-ab19-9344e47320bf")
+	)
+	(fp_line
+		(start -3.199975 -7.120041)
+		(end 3.200025 -7.120041)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9c65c289-c22a-4894-9c99-7d4e428cf817")
+	)
+	(fp_line
+		(start -2.5 -9.120015)
+		(end -2.5 -7.120041)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ac6887c-26e1-45d2-b492-743a9b748ce6")
+	)
+	(fp_line
+		(start 2.5 -9.120015)
+		(end -2.5 -9.120015)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56bd50c2-b719-4afd-9bb9-820091e482e9")
+	)
+	(fp_line
+		(start 2.5 -9.120015)
+		(end 2.5 -7.120041)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f2b6d17e-86ea-44e2-92a6-19ccfc9dc309")
+	)
+	(fp_circle
+		(center 4.100076 -5.900051)
+		(end 4.299975 -5.900051)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "0c0cbe92-cc38-491c-b388-96d54d932e0a")
+	)
+	(fp_text user "REF**"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "13c0ff26-a600-45c3-9737-0f32d15dff19")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.4 -4.380112)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d6a76d07-1d0f-459f-9e8b-642f2f7b75d4")
+	)
+	(pad "2" smd rect
+		(at 4.4 -4.369952)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f4073b05-5fbf-4bfd-86ca-47d0dc04c645")
+	)
+	(pad "3" smd rect
+		(at -4.4 -1.619888)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4e8b56d8-a108-4c44-813c-48387d7ce317")
+	)
+	(pad "3" smd rect
+		(at -4.4 3.380112)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "78817f15-9311-4fa5-b7ed-8a1d43655efd")
+	)
+	(pad "4" smd rect
+		(at 4.4 2.179959)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e623f9ee-3c66-4445-9ef9-8b3f43c04ed5")
+	)
+	(pad "4" smd rect
+		(at 4.4 4.380112)
+		(size 1.8 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6338cd0a-cbd5-4d25-91da-7ac0212cd759")
+	)
+	(model "${KIPRJMOD}/Data/Lilypad Models/AUDIO-SMD_PJ-342C.step"
+		(offset
+			(xyz 0 2 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 0 -180)
+		)
+	)
+)

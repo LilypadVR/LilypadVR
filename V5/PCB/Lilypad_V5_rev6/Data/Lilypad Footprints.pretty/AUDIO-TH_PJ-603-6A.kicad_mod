@@ -1,0 +1,403 @@
+(footprint "AUDIO-TH_PJ-603-6A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "AUDIO-TH_PJ-603-6A footprint")
+	(tags "AUDIO-TH_PJ-603-6A footprint C145809")
+	(property "Reference" "J2"
+		(at -1.126431 -6.069952 0)
+		(layer "F.SilkS")
+		(uuid "b697c5b1-88ef-4272-b6a1-076a3c1d6722")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PJ-603-6A"
+		(at -1.151892 6.064008 0)
+		(layer "F.Fab")
+		(uuid "f8105bc7-d992-4d37-a897-226b9f4f1563")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Lilypad Footprints:AUDIO-TH_PJ-603-6A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "895882be-b576-4485-887c-b7dac3056802")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20191118/C145809_A7CD27A1535D47C933B54D4EB70E0E36.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94cd7d25-2d9b-4264-ab50-3637921ff0a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0dc2863-8466-42a0-9651-031c88aa9992")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC" "C145809"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee698087-7511-491e-87eb-a9e9815f63e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.374905 -2.540005)
+		(end -5.850902 -4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e14c43f9-ed1e-4c47-8b0d-a72cc1d06967")
+	)
+	(fp_line
+		(start -7.374905 -1.778004)
+		(end -7.374905 -2.540005)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f45db167-e4b1-40a1-ad0b-a2d0e8b100c0")
+	)
+	(fp_line
+		(start -7.374905 -1.778004)
+		(end -7.374905 1.778004)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3eebd3a2-af4c-429f-815d-bdbc4e792c2a")
+	)
+	(fp_line
+		(start -7.374905 1.778004)
+		(end -7.374905 2.540005)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45e033e7-c702-4ee1-af93-91df2c58ab4f")
+	)
+	(fp_line
+		(start -7.374905 2.540005)
+		(end -5.850902 4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7463ded7-d5fe-426f-beb8-b248d341af58")
+	)
+	(fp_line
+		(start -5.850902 -4.064008)
+		(end -5.342901 -4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "371af2a2-2626-40bf-83bc-32ca39017edb")
+	)
+	(fp_line
+		(start -5.850902 4.064008)
+		(end -5.342901 4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bd3504f-4a7f-4c4d-8f1c-3b709aa2566d")
+	)
+	(fp_line
+		(start -5.342901 -4.064008)
+		(end -5.342901 -3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99d39fec-d0f9-4642-8bf5-45811ece8fd5")
+	)
+	(fp_line
+		(start -5.342901 -3.302007)
+		(end 1.007112 -3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff6512f7-2f68-484f-8f6f-cddc644aa3e7")
+	)
+	(fp_line
+		(start -5.342901 3.302007)
+		(end 1.007112 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7243a6a5-6408-431f-a249-d0d9bf836904")
+	)
+	(fp_line
+		(start -5.342901 4.064008)
+		(end -5.342901 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "890388c8-d9c4-4d2f-b5cd-4b1fc61ef852")
+	)
+	(fp_line
+		(start 1.007112 -4.064008)
+		(end 2.023114 -4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "567f1cb8-c6f2-48fe-8eaa-2af49b5451b8")
+	)
+	(fp_line
+		(start 1.007112 -3.302007)
+		(end 1.007112 -4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26d11ab7-2e5b-4fee-abdf-95b1543f7ddd")
+	)
+	(fp_line
+		(start 1.007112 3.302007)
+		(end 1.007112 4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bc6666f2-ef4b-4d9b-9c44-b1f649cd2c07")
+	)
+	(fp_line
+		(start 1.007112 4.064008)
+		(end 2.023114 4.064008)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1e177de-1389-4e8e-a451-382cdb25aa84")
+	)
+	(fp_line
+		(start 2.023114 -4.064008)
+		(end 2.023114 -3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c89655ad-184e-4a45-b708-53e97c9b01c2")
+	)
+	(fp_line
+		(start 2.023114 -3.302007)
+		(end 5.07112 -3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5163685c-85c4-4579-8ddb-0907a50b884a")
+	)
+	(fp_line
+		(start 2.023114 3.302007)
+		(end 5.07112 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98af2f2d-beea-44db-bdd4-45443585d5e0")
+	)
+	(fp_line
+		(start 2.023114 4.064008)
+		(end 2.023114 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e03865a1-71df-4117-8cca-bec82b681b49")
+	)
+	(fp_line
+		(start 5.07112 -3.302007)
+		(end 5.07112 -3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7ba4b15-83cf-4b8c-83cc-99b673618d3c")
+	)
+	(fp_line
+		(start 5.07112 -3.302007)
+		(end 5.07112 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a9642b9-4321-4f41-b6bf-fe93237784ac")
+	)
+	(fp_line
+		(start 5.07112 3.302007)
+		(end 5.07112 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0baeea76-5c47-4746-b24a-f1e9558b1e8f")
+	)
+	(fp_circle
+		(center -7.501905 4.548895)
+		(end -7.471933 4.548895)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "fd2bcf0e-96f9-45b3-8564-bbb1de769235")
+	)
+	(fp_line
+		(start -5.334011 -3.302007)
+		(end -5.334011 3.302007)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d2cce8e1-332f-469f-958f-7985ae19122e")
+	)
+	(fp_poly
+		(pts
+			(xy -7.112014 -3.302007) (xy 5.334011 -3.302007) (xy 5.334011 3.302007)
+		)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "60a9cc4e-7ab2-4512-9655-44d6aaaa15ec")
+	)
+	(fp_text user "REF**"
+		(at -1.151892 8.064008 0)
+		(layer "F.Fab")
+		(uuid "a0af20f8-a5ea-47e6-b4fa-e8d67e950a32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -4.024638 -4.048768)
+		(size 1.9 1)
+		(drill oval 1.400178 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "af395494-2bb4-4986-8d7a-b99622dadc44")
+	)
+	(pad "2" thru_hole oval
+		(at -0.974092 -4.048768)
+		(size 1.9 1)
+		(drill oval 1.400178 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1eee4930-5898-4912-bf93-741125b8c274")
+	)
+	(pad "3" thru_hole oval
+		(at 4.024638 -4.048768)
+		(size 2.1 1)
+		(drill oval 1.599822 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8aaa905c-8177-4e2f-8359-7f6d6cf3e88d")
+	)
+	(pad "4" thru_hole oval
+		(at 4.024638 4.048768)
+		(size 2.1 1)
+		(drill oval 1.599822 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e262f071-1964-4739-a2bd-a71ceeef47ba")
+	)
+	(pad "5" thru_hole oval
+		(at -1.174752 4.048768)
+		(size 1.9 1)
+		(drill oval 1.400178 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e08191cf-fbb1-4d23-9a14-620529d35b0e")
+	)
+	(pad "6" thru_hole oval
+		(at -4.024638 4.048768)
+		(size 1.9 1)
+		(drill oval 1.400178 0.500025)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d6944d3c-c91b-4107-8f45-e051ee8469ff")
+	)
+	(model "C:\\Users\\jevan\\Documents\\GitHub\\LilypadVR\\V5\\PCB\\LilypadV5_rev4\\Data/footprint/packages3d/AUDIO-TH_PJ-603-6A.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
